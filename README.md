@@ -24,13 +24,13 @@ If you just landed randomly go check some of my repositories. Hope you will find
 
 ## Let's Connect
 
-📫 If you're fascinated by my imagination and creativity.
-📫 Interested in cosmology and space.
-📫 Some pyschological discussion are also accepted 😅. 
+📫 If you're fascinated by my imagination and creativity.  
+📫 Interested in cosmology and space.  
+📫 Some pyschological discussion are also accepted 😅.  
 feel free to connect!
 
-[LinkedIn](https://www.linkedin.com/in/prashant-rawat-8419091ab/)
-[GitHub](https://github.com/prashant826)
-[Leetcode](https://leetcode.com/rprashant782/)
+[LinkedIn](https://www.linkedin.com/in/prashant-rawat-8419091ab/)  
+[GitHub](https://github.com/prashant826)  
+[Leetcode](https://leetcode.com/rprashant782/)  
 
 Remember, life and code are both games of strategy. Let's play them brilliantly! 🎲
